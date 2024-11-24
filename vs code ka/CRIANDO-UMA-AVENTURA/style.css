@@ -1,0 +1,23 @@
+body {
+    background-color: darkgrey;
+    font-family: "Playfair Display", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button {
+    background-color: goldenrod;
+    font-family: "Playfair Display", serif;
+}
+
+.passo{
+display:none;
+}
+
+.passo.ativo {
+    display:block;
+}
